@@ -63,3 +63,5 @@ O objetivo é aplicar esses conhecimentos na resolução de problemas e na trans
 **Ítalo da Silva Vieira**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados e Business Intelligence.
+
+[LinkedIn](www.linkedin.com/in/ítalo-da-silva-vieira-a74549157)
