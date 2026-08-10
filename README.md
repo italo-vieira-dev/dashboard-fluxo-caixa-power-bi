@@ -20,7 +20,7 @@ O dashboard apresenta indicadores como:
 - Classificação das despesas
 - Análise por ano e setor
 
-## 🔎 Análises disponíveis
+## Análises disponíveis
 
 O relatório permite analisar a evolução das **receitas e despesas ao longo do tempo**, além de identificar quais setores e classificações possuem maior participação nas despesas.
 
